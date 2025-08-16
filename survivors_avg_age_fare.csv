@@ -1,0 +1,16 @@
+Dataset sample (first 5 rows):
+   survived  pclass     sex   age  sibsp  parch     fare embarked  class  who  
+0         0       3    male  22.0      1      0   7.2500        S  Third  man  
+1         1       1  female  38.0      1      0  71.2833        C  First  woman
+2         1       3  female  26.0      0      0   7.9250        S  Third  woman
+3         1       1  female  35.0      1      0  53.1000        S  First  woman
+4         0       3    male  35.0      0      0   8.0500        S  Third  man
+
+
+
+Average age and fare of survivors by class:
+              age       fare
+class                       
+First   35.37    95.61
+Second  25.90    22.06
+Third   20.65    13.69
